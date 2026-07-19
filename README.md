@@ -1,4 +1,4 @@
-# RF Signal Activity Detector
+# Custom-RF-Kalman-Scanner-4-SDR
 
 A real-time Software Defined Radio (SDR) application for monitoring RF activity using adaptive signal processing techniques.
 
